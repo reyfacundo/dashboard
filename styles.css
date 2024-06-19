@@ -8,7 +8,9 @@
     margin: 0;
     padding: 0;
 }
-
+html{
+    font-family: "Roboto",'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 body {
     color: rgb(116, 116, 116);
     line-height: 1.5;
